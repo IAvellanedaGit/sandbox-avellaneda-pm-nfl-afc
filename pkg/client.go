@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	bridge "github.com/IAvellanedaGit/nuevo-platform-mobile-bridge"
+	iafc "github.com/IAvellaneda/sandbox-avellaneda-pm-nfl-afc/service"
 )
 
 type Client struct {
