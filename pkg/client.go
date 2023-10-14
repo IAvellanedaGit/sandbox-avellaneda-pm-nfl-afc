@@ -3,8 +3,8 @@ package afc
 import (
 	"fmt"
 
-	bridge "bitbucket.org/newyuinc/platform-mobile-bridge"
-	iafc "bitbucket.org/newyuinc/sandbox-klee-pm-nfl-afc/service"
+	bridge "github.com/IAvellanedaGit/nuevo-platform-mobile-bridge"
+	iafc "github.com/IAvellanedaGit/sandbox-avellaneda-pm-nfl-afc"
 )
 
 type Client struct {
